@@ -1,4 +1,4 @@
-# Sequencia-de-Fibonacci
+# Sequencia de Fibonacci
 
 
 Através da compreenção da Sequência de Fibonacci, decidi criar um algoritmo que entregasse-os à mim.
