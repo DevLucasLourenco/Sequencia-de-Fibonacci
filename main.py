@@ -1,6 +1,6 @@
 class SequenciaFibonacci():
     '''
-    n_sequencia: Quantidade de sequencias que serão apresentadas'
+    n_sequencia: Quantidade de sequencias que serão apresentadas
     '''
 
     def __init__(self, n_sequencia: int):
