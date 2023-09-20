@@ -20,7 +20,7 @@ class SequenciaFibonacci():
 
 
     def sequencia(self):         
-        for i in range(self.quantidade - 3):
+        for i in range(self.quantidade - 2):
             self.matriz.append(self.matriz[-1] + self.matriz[-2])
                 
                 
